@@ -7,17 +7,17 @@ Traditional chess rating systems, such as Elo, have limitations in accurately as
 
 ## 🛠️ Features
 
-Move-by-move analysis: Uses centipawn loss (CPL) changes to track real-time performance.
-Fast skill evaluation: Determines player ability in significantly fewer games than Elo.
-Convergence properties: Retains Elo’s stability while improving early-stage rating accuracy.
+- Move-by-move analysis: Uses centipawn loss (CPL) changes to track real-time performance.
+- Fast skill evaluation: Determines player ability in significantly fewer games than Elo.
+- Convergence properties: Retains Elo’s stability while improving early-stage rating accuracy.
 
 ## 📊 Methodology
 
-Drift Rate Calculation: Determines player skill in real-time using a customized activation function.
-Boundary Setting: Defines decision boundaries for skill differentiation.
-Discrete Time Representation: Tracks each move as a discrete step to model game progress.
+1. Drift Rate Calculation: Determines player skill in real-time using a customized activation function.
+2. Boundary Setting: Defines decision boundaries for skill differentiation.
+3. Discrete Time Representation: Tracks each move as a discrete step to model game progress.
 
 ## 🔬 Experiments & Results
 
-Player Skill Evaluation: DDCPS successfully distinguishes player skill gaps within 20-30 games.
-Convergence Property: The model stabilizes player ratings over time, similar to Elo.
+- Player Skill Evaluation: DDCPS successfully distinguishes player skill gaps within 20-30 games.
+- Convergence Property: The model stabilizes player ratings over time, similar to Elo.
