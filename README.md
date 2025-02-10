@@ -1,9 +1,8 @@
 # DDCPS
 > Replacing ELO with Drift Diffusion Model (DDM) for Assessing Chess Player Skill Levels: A New Approach to Performance Evaluation
 
-<p align="center"> <img src="images/trajectory_plot.png" alt="Decision Variable Trajectory"/> </p>
-
-<p align="center"> <img src="images/CPL.png" alt="ACPL-ELO Relation" width="600"/> </p>
+| <img src="images/trajectory_plot.png" alt="Decision Variable Trajectory"/> | <img src="images/CPL.png" alt="ACPL-ELO Relation" /> |
+|-----------------------|-----------------------|
 
 ## 📜 Introduction
 
