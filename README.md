@@ -4,6 +4,9 @@
 | <img src="images/trajectory_plot.png" alt="Decision Variable Trajectory"/> | <img src="images/CPL.png" alt="ACPL-ELO Relation" /> |
 |-----------------------|-----------------------|
 
+- [Paper Link](https://zhizhengfu.github.io/nju/DDCPS.pdf)
+- [PPT Link](https://zhizhengfu.github.io/nju/DDCPS-PPT.pdf)
+
 ## 📜 Introduction
 
 Traditional chess rating systems, such as Elo, have limitations in accurately assessing player skill levels. They struggle to capture individual move quality and require numerous games to stabilize ratings. To address these issues, we introduce DDCPS (Drift Diffusion Chess Player Skill Evaluation), a novel approach inspired by the Drift Diffusion Model (DDM). DDCPS evaluates player skill based on move quality, offering a more dynamic and precise assessment.
