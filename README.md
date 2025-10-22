@@ -4,8 +4,8 @@
 | <img src="images/trajectory_plot.png" alt="Decision Variable Trajectory"/> | <img src="images/CPL.png" alt="ACPL-ELO Relation" /> |
 |-----------------------|-----------------------|
 
-- [Paper Link](https://zhizhengfu.github.io/nju/DDCPS.pdf)
-- [PPT Link](https://zhizhengfu.github.io/nju/DDCPS-PPT.pdf)
+- [Paper Link](https://drive.google.com/file/d/1qcJ-prNWYDrhVCFYFwvE_UV9Ss8aO8ud/view?usp=share_link)
+- [PPT Link](https://drive.google.com/file/d/10ZtqFUwQrMuSiCWZE-gfPJPTMZUaeQlJ/view?usp=share_link)
 
 ## 📜 Introduction
 
